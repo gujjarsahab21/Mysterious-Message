@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# Mysterious Message
+
+Welcome to Mysterious Message! This project allows users to send anonymous messages to anyone without revealing their actual identity. Additionally, users can register with NextAuth for secure authentication and authorization. Built with modern technologies, this application ensures a seamless user experience with a focus on privacy and security.
+
+## Features
+
+- **User-friendly Experience**: Enjoy a smooth and intuitive interface for sending and receiving messages.
+- **Anonymous Messaging**: Send feedback or messages to anyone anonymously.
+- **Identity Protection**: Your actual identity remains hidden.
+- **Secure Authentication and Authorization**: Robust authentication and authorization using NextAuth and Auth.js.
+- **Modern Tech Stack**: Built with Next.js, Tailwind CSS, Shadcn, NextAuth, Auth.js, Zod, MongoDB, Mongoose, and Resend API.
 
 ## Getting Started
 
-First, run the development server:
+To get started with the development environment, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/gujjarsahab21/mysterious-message.git
+    ```
+2. **Navigate to the project directory**:
+    ```bash
+    cd mysterious-message
+    ```
+3. **Install dependencies**:
+    ```bash
+    npm install
+    ```
+4. **Start the development server**:
+    ```bash
+    npm run dev
+    ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Usage
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Once the development server is running, you can access the application in your web browser at `http://localhost:3000`. Customize the application by modifying the content and adding your own features as needed.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Available Scripts
 
-## Learn More
+In the project directory, you can run:
 
-To learn more about Next.js, take a look at the following resources:
+- **`npm run dev`**: Runs the app in development mode. Open `http://localhost:3000` to view it in the browser.
+- **`npm run build`**: Builds the app for production to the `build` folder.
+- **`npm run test`**: Launches the test runner in interactive watch mode.
+- **`npm run eject`**: This command will remove the single build dependency from your project.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Contributions are welcome! If you have any suggestions, bug fixes, or feature requests, please open an issue or submit a pull request.
 
-## Deploy on Vercel
+## License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is licensed under the MIT License.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
