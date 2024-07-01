@@ -9,7 +9,7 @@ Welcome to Mysterious Message! This project allows users to send anonymous messa
 - **Anonymous Messaging**: Send feedback or messages to anyone anonymously.
 - **Identity Protection**: Your actual identity remains hidden.
 - **Secure Authentication and Authorization**: Robust authentication and authorization using NextAuth and Auth.js.
-- **Modern Tech Stack**: Built with Next.js, Tailwind CSS, Shadcn, NextAuth, Auth.js, Zod, MongoDB, Mongoose, and Resend API.
+- **Modern Tech Stack**: Built with Next.js, TypeScript, Tailwind CSS, Shadcn, NextAuth, Auth.js, Zod, MongoDB, Mongoose, and Resend API.
 
 ## Getting Started
 
