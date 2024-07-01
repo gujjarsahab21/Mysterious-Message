@@ -47,7 +47,7 @@ In the project directory, you can run:
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, bug fixes, or feature requests, please open an issue or submit a pull request.
+Contributions are welcome! If you have any suggestions, bug fixes, or feature requests, please open an issue or submit a pull request. 
 
 ## License
 
